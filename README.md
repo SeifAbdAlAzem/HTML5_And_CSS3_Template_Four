@@ -5,7 +5,7 @@
 This is a Template with fantastic animation;
 It consists of 14 sections "landing screen, Articles, Gallery,
 Features, Testimonials, Team Members, Services, Our Skills, ..."
-We also use flex-box in the layout.
+I also use flex-box in the layout.
 
 ## Used Technologies
 
